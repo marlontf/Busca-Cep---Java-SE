@@ -46,6 +46,7 @@ public class Sobre extends JDialog {
 		setTitle("Sobre");
 		setIconImage(Toolkit.getDefaultToolkit().getImage(Sobre.class.getResource("/img/home.png")));
 		setBounds(150, 150, 439, 273);
+		setLocationRelativeTo(null);
 		getContentPane().setLayout(null);
 		
 		JLabel lblNewLabel = new JLabel("Buscar CEP - Ver 1.0");
