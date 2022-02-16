@@ -107,3 +107,8 @@ nb-configuration.xml
 /mtfinfoX/nbproject/private/
 /OnlyForTests/nbproject/private/
 mtfinfoX/dist/README.TXT
+
+##############################
+## Permited folders
+##############################
+!BaseFiles/**/**/**/**/**/**/**/**/**/**/**/**
